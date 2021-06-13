@@ -20,4 +20,11 @@ class Test_foo_for_fun {
         Foo foo = new Foo(2, 2);
         assertEquals(0, foo.compute(42.0));
     }
+
+    @Test
+    void two_integer_foo() {
+        Foo foo = new Foo(2, 4);
+        assertEquals(1, foo.compute(42.0));
+    }
+
 }
