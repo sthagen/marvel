@@ -4,6 +4,6 @@ Marvel out of no thing.
 
 ## Status
 
-Experimental
+Experimental.
 
 **Note**: The default branch is `default`.
